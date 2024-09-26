@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Janmee
+- 👋 Hi, I’m Janmee
 - 🌱 I’m currently learning java and deeplearning
 - 💞️ Welcome to my home~
 
